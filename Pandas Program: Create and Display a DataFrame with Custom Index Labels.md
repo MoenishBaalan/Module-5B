@@ -31,7 +31,9 @@ print(df)
 ```
 
 ## Output
-![439183734-a8fa303b-1b98-4c0f-9e8a-defe708dccbc](https://github.com/user-attachments/assets/8d8a5585-e5a8-452a-80e5-f5368ce93142)
+![439183734-a8fa303b-1b98-4c0f-9e8a-defe708dccbc](https://github.com/user-attachments/assets/cd8e78b8-f92a-4762-807b-0cbab03db5b9)
+
+
 
 ## Result
 Thus, the Python program has been created and executed successfully to create a DataFrame using
